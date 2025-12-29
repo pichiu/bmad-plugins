@@ -61,7 +61,7 @@ bmad-party-mode/
 ├── .claude-plugin/
 │   └── plugin.json          # Plugin manifest
 ├── commands/
-│   └── party-mode.md        # Main /bmad-party-mode command
+│   └── bmad-party-mode.md   # Main /bmad-party-mode command
 ├── skills/
 │   └── party-mode-orchestration/
 │       ├── SKILL.md         # Orchestration rules

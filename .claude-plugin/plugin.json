@@ -6,5 +6,9 @@
     "name": "Pi Chiu",
     "email": "rtchiou@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pichiu/bmad-party-mode"
+  },
   "keywords": ["multi-agent", "conversation", "orchestration", "collaboration", "brainstorming"]
 }

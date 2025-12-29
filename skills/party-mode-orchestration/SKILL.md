@@ -1,6 +1,6 @@
 ---
 name: Party Mode Orchestration
-description: Use this skill when facilitating multi-agent discussions, managing agent selection, maintaining character consistency, or orchestrating collaborative conversations between AI agents
+description: This skill provides guidance for facilitating multi-agent discussions, managing agent selection, maintaining character consistency, or orchestrating collaborative conversations between AI agents
 version: 1.0.0
 ---
 
